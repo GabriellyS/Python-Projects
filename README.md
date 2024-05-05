@@ -11,8 +11,8 @@ Funcionalidades:
   - Saldo atual: Mostra o saldo atual do usuário.
  
  - Usuário Administrador:
-  - Alteração do valor da passagem: Admins podem alterar o preço da passagem.
-  - Alteração de senha: Admins podem alterar a senha de acesso ao sistema.
+   - Alteração do valor da passagem: Admins podem alterar o preço da passagem.
+   - Alteração de senha: Admins podem alterar a senha de acesso ao sistema.
 
 Como usar:
 Execute o programa.
