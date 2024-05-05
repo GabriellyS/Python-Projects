@@ -5,14 +5,14 @@ Os usuários podem ser convencionais ou administradores.
 
 Funcionalidades:
 
- Usuário Convencional:
-  Compra de passagem: Usuários podem comprar uma passagem se tiverem saldo suficiente.
-  Recarga de saldo: Usuários podem carregar créditos em seus cartões.
-  Saldo atual: Mostra o saldo atual do usuário.
+- Usuário Convencional:
+  - Compra de passagem: Usuários podem comprar uma passagem se tiverem saldo suficiente.
+  - Recarga de saldo: Usuários podem carregar créditos em seus cartões.
+  - Saldo atual: Mostra o saldo atual do usuário.
  
- Usuário Administrador:
-  Alteração do valor da passagem: Admins podem alterar o preço da passagem.
-  Alteração de senha: Admins podem alterar a senha de acesso ao sistema.
+ - Usuário Administrador:
+  - Alteração do valor da passagem: Admins podem alterar o preço da passagem.
+  - Alteração de senha: Admins podem alterar a senha de acesso ao sistema.
 
 Como usar:
 Execute o programa.
