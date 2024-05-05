@@ -13,8 +13,3 @@ Funcionalidades:
  - Usuário Administrador:
    - Alteração do valor da passagem: Admins podem alterar o preço da passagem.
    - Alteração de senha: Admins podem alterar a senha de acesso ao sistema.
-
-Como usar:
-Execute o programa.
-Escolha o tipo de usuário: convencional ou admin.
-Siga as instruções fornecidas no menu correspondente.
