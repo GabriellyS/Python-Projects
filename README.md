@@ -1,15 +1,25 @@
-Este é um sistema simples de gerenciamento de transporte, escrito em Python. 
-Ele permite que usuários comprem passagens e administrem saldos. 
+# Public Transport Management System ![Bus](https://img.icons8.com/pulsar-gradient/45/bus2.png)
 
-Os usuários podem ser convencionais ou administradores.
+A simple Python system for managing public transport, allowing users to purchase tickets and manage balances.
 
-Funcionalidades:
+---
 
-- Usuário Convencional:
-  - Compra de passagem: Usuários podem comprar uma passagem se tiverem saldo suficiente.
-  - Recarga de saldo: Usuários podem carregar créditos em seus cartões.
-  - Saldo atual: Mostra o saldo atual do usuário.
- 
- - Usuário Administrador:
-   - Alteração do valor da passagem: Admins podem alterar o preço da passagem.
-   - Alteração de senha: Admins podem alterar a senha de acesso ao sistema.
+## Features
+
+### Conventional User
+- **Buy Ticket**: Purchase a ticket if you have enough balance.
+- **Top-Up Balance**: Add credits to your card.
+- **Check Balance**: View your current balance.
+
+### Administrator
+- **Change Ticket Price**: Modify the ticket price.
+- **Change Password**: Update the system access password.
+
+---
+
+## Technologies Used
+- **Python**: Core programming language.
+- **OOP**: Object-Oriented Programming principles.
+- **File Handling**: Saving and reading user data.
+
+![Python](https://img.icons8.com/color/48/python.png)
